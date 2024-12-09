@@ -1,3 +1,1 @@
-import math
-num = str(input('Digite um numero: ')
-print(f'A porção inteira de {num} é {math.floor(num)}')
+
